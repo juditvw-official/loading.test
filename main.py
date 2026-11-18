@@ -16,10 +16,10 @@ print("Loading 1")
 loading(0.5)
 print("sucseful")
 
-print("Loading 1")
-loading_1(1)
+print("Loading 2")
+loading_1(0.1)
 print("sucseful")
 
-print("Loading 2")
+print("Loading 3")
 loading(1)
 print("sucseful")
