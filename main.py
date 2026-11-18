@@ -6,8 +6,18 @@ def loading (speed):
     time.sleep(speed)
   print()
 
+def loading_1 (speed):
+  for a in range(100):
+    print("-", flush=True, end="")
+    time.sleep(speed)
+  print()
+
 print("Loading 1")
 loading(0.5)
+print("sucseful")
+
+print("Loading 1")
+loading_1(1)
 print("sucseful")
 
 print("Loading 2")
