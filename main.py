@@ -23,3 +23,5 @@ print("sucseful")
 print("Loading 3")
 loading(1)
 print("sucseful")
+
+print("The end")
